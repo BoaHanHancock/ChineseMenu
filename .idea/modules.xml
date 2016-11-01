@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ChineseMenu.iml" filepath="$PROJECT_DIR$/.idea/ChineseMenu.iml" />
+      <module fileurl="file://C:/xampp/htdocs/myProject/ChineseMenu/.idea/ChineseMenu.iml" filepath="C:/xampp/htdocs/myProject/ChineseMenu/.idea/ChineseMenu.iml" />
+    </modules>
+  </component>
+</project>
